@@ -1,6 +1,8 @@
 # ゲームタイトル: Naturild
 
 プレイ用リンク：https://unityroom.com/games/naturildgame
+プレイ動画：https://youtu.be/-c69JvkAoSs
+(内部音声のみ録音できず、音質が悪めです。ご了承ください。)
 
 ## 📝 プロジェクト概要
 
